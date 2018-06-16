@@ -8,7 +8,8 @@ Some basic templates for your open-source project
 
 - [README](#readme)
 - [Licensing a repository](#license)
-- [Code Of Conduct](#codeofconduct)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Code Of Conduct](#code-of-conduct)
 
 <br>
 
@@ -20,6 +21,12 @@ Some basic templates for your open-source project
 
 - [LICENSE.md](License%20Templates) - For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.
 - Choosing the right [license](https://choosealicense.com/).
+
+## Contribution Guidelines
+
+- For the repository owner, contribution guidelines are a way to communicate how people should contribute.
+- For contributors, the guidelines help them verify that they're submitting well-formed pull requests and opening useful issues.
+- For both owners and contributors, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
 
 ## Code Of Conduct
 
