@@ -7,12 +7,25 @@ Some basic templates for your open-source project
 ## Contents
 
 - [README](#readme)
+- [Licensing a repository](#license)
+- [Code Of Conduct](#codeofconduct)
 
 <br>
 
 ## README
 
-- [A README file](README Template/README Template.md) helps to tell other people why your project is useful, what they can do with your project, and how they can use it.
+- [README.md](README Template/README Template.md) helps to tell other people why your project is useful, what they can do with your project, and how they can use it.
+
+## License
+
+- [LICENSE.md](License Templates) - For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.
+- Choosing the right [license](https://choosealicense.com/).
+
+## Code Of Conduct
+
+- [CODE_OF_CONDUCT.md](Code Of Conduct Template/CODE_OF_CONDUCT.md) - defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions.
+
+<br>
 
 ## Contributing
 
